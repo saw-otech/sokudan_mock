@@ -1,1 +1,0 @@
-# sokudan_mock
